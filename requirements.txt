@@ -1,7 +1,7 @@
 fastapi
-uvicorn
+pydantic
 chromadb
-google-genai
-beautifulsoup4
 requests
+beautifulsoup4
+google-generativeai
 python-dotenv
