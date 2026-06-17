@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+chromadb
+google-genai
+beautifulsoup4
+requests
+python-dotenv
